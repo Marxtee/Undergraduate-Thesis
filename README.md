@@ -6,6 +6,8 @@
 
 > Matija's Undergraduate Thesis in Hebei University of Engineering.
 
+Project address: https://rocken.coding.net/p/lenin 【Author private】
+
 ### 📰 论文教程
 
  - 千峰教你如何写好毕业论文 [[Bilibili]](https://www.bilibili.com/video/BV1Gb411g73P) [[Youtube]](https://www.youtube.com/playlist?list=PLwDQt7s1o9J7hn46H0aA6Io0fNV9q5ddk)
