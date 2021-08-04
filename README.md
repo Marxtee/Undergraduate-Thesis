@@ -1,6 +1,6 @@
 # Undergraduate Thesis
 
-<div align=center><img src="https://xn--wcso9o.xn--fiqs8s/images/e03ddd16cfb61df8a67107afb4166024.jpg"/></div>
+<div align=center><img src="https://storge.matija.xyz/github/head.png"/></div>
 
 <br>
 
@@ -21,7 +21,7 @@
  - 清华大学 -- 研究生如何做学术/写论文 [[Bilibili]](https://www.bilibili.com/video/BV1vE411J7mG)
 
 
-### 📚 参考文章
+### 📚 前端优化参考文章
 
  - Front-End Performance Checklist 2017 [[English]](https://www.smashingmagazine.com/2016/12/front-end-performance-checklist-2017-pdf-pages/) [[Chinese]](https://mp.weixin.qq.com/s/g4_XfZR81_L29G2q3ue4aw)
  
