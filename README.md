@@ -1,8 +1,5 @@
 # Undergraduate Thesis
 
-<div align=center><img src="https://storge.matija.xyz/github/head.png"/></div>
-
-<br>
 
 > Matija's Undergraduate Thesis in Hebei University of Engineering.
 
